@@ -1,0 +1,16 @@
+{
+  "title": "我的宠物日常",
+  "description": "把每天的小心情发给喜欢的人。",
+  "copyright": "填写实际权利人",
+  "banner": "assets/banner.jpg",
+  "entries": [
+    {"sprite": "sprites/01.png", "text": "收到", "motion": "nod"},
+    {"sprite": "sprites/02.png", "text": "好耶", "motion": "jump"},
+    {"sprite": "sprites/03.png", "text": "贴贴", "motion": "sway"},
+    {"sprite": "sprites/04.png", "text": "委屈", "motion": "breathe"},
+    {"sprite": "sprites/05.png", "text": "干饭啦", "motion": "jump"},
+    {"sprite": "sprites/06.png", "text": "晚安", "motion": "breathe"},
+    {"sprite": "sprites/07.png", "text": "没问题", "motion": "nod"},
+    {"sprite": "sprites/08.png", "text": "啥情况", "motion": "sway"}
+  ]
+}
